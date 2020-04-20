@@ -17,3 +17,6 @@ Users can create input data of plate structures, loads and restrains in "plate_e
 Where users can get help with your project?
 
 Please feel free to contact me at kupc25648@hotmail.com
+
+Example
+<img src="images/shell.png">
